@@ -9,3 +9,6 @@ Run "pip install -r requirements.txt"
 
 ### Step 2. Run
 Just run main.py
+
+### License
+MIT
