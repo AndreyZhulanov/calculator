@@ -25,7 +25,7 @@ def main():
         print(sum_nums(num1, num2))
     elif operator == '*':
         print(mul_nums(num1, num2))
-    elif operator == '/':
+    elif operator == '/':  # Здесь мог быть баг
         print(div_nums(num1, num2))
 
 
